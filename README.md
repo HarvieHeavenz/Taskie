@@ -3,4 +3,4 @@
 <h1>Taskie Design</h1>
 
 ![taskie design](taskie.jpg)
-<img src="taskie.jpg">
+<img src="design/taskie.jpg">
