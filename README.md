@@ -9,12 +9,12 @@
 </ol>
 
 <h2>Installing App</h2>
- <ol>
- <li><code>git clone https://github.com/heavenz-zz/Taskie</code></li>
+ <ul>
+ <li><code>git clone https://github.com/HarvieHeavenz/Taskie</code></li>
   <li><code>cd taskie</code></li>
   <li><code>flutter pub get</code></li>
   <li><code>flutter run --release</code></li>
-</ol>
+</ul>
  
 <h1>Taskie Design</h1>
 
