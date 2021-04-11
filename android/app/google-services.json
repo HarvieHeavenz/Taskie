@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99945376987",
+    "project_id": "taskie-47a41",
+    "storage_bucket": "taskie-47a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99945376987:android:e645276765017866fcb0fe",
+        "android_client_info": {
+          "package_name": "com.dezygic.taskie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99945376987-blabj3l3ooek6ofbkdqkq1c9f6smn84l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Uc9mXrZM2A39IHxonW4475S7t2OWaIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99945376987-blabj3l3ooek6ofbkdqkq1c9f6smn84l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
