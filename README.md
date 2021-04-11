@@ -1,4 +1,4 @@
-# taskie
+# Taskie
  Simple task management app with flutter
  
  <h1>Tech used</h1>
