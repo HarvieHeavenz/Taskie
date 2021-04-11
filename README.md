@@ -10,10 +10,10 @@
 
 <h2>Installing App</h2>
  <ol>
- <li>cd taskie</li>
-  <li>cd taskie</li>
-  <li>flutter pub get</li>
-  <li>flutter run --release</li>
+ <li><code>git clone https://github.com/heavenz-zz/Taskie</code></li>
+  <li><code>cd taskie</code></li>
+  <li><code>flutter pub get</code></li>
+  <li><code>flutter run --release</code></li>
 </ol>
  
 <h1>Taskie Design</h1>
